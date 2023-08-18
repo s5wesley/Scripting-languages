@@ -1,0 +1,20 @@
+Harold_Mbarga-bella:
+   email: bula41@hotmail.com
+   phone_number: 1-484-620-0961
+   home_address:
+        - 312 whispering_wind_way
+        - Wake_forest
+        - NC_25787
+   hoppy:
+       - hiking
+       - playing_soccer
+       - reading
+       - playing_golf
+   work_expirence:
+       company: 
+          EK_TECH_SOFTWARE_SOLUTION:
+                DevOps Engineer: 2023-03-22_to_present    
+          EK_cooperation:
+                Linux_administration:
+                      Years_work: 2017-04-1_to_2022-08-10
+                     
